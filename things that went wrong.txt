@@ -1,0 +1,5 @@
+multithreaded networking didnt work with subclassing qthread
+^^^ heisenbug
+networking wont run in pycharm for reaons unknown
+replaced base64 with JSON
+replaced bcrypt with algorithm based off of sha256
